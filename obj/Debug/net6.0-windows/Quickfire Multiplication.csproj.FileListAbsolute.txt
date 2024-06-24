@@ -1,0 +1,17 @@
+D:\Documents\Programming\C#\Quickfire Multiplication\bin\Debug\net6.0-windows\Quickfire Multiplication.exe
+D:\Documents\Programming\C#\Quickfire Multiplication\bin\Debug\net6.0-windows\Quickfire Multiplication.deps.json
+D:\Documents\Programming\C#\Quickfire Multiplication\bin\Debug\net6.0-windows\Quickfire Multiplication.runtimeconfig.json
+D:\Documents\Programming\C#\Quickfire Multiplication\bin\Debug\net6.0-windows\Quickfire Multiplication.dll
+D:\Documents\Programming\C#\Quickfire Multiplication\bin\Debug\net6.0-windows\Quickfire Multiplication.pdb
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.csproj.GenerateResource.cache
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.AssemblyInfoInputs.cache
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.AssemblyInfo.cs
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.dll
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\refint\Quickfire Multiplication.dll
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.pdb
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire Multiplication.genruntimeconfig.cache
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\ref\Quickfire Multiplication.dll
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire_Multiplication.frm.resources
+D:\Documents\Programming\C#\Quickfire Multiplication\obj\Debug\net6.0-windows\Quickfire_Multiplication.Properties.Resources.resources
